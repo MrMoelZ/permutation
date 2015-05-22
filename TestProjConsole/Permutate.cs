@@ -10,7 +10,7 @@ namespace Permutate
     {
         public string PermutatePerTree ()
         {
-            return "IT WÖRGS!";
+            return "IT WORKS!";
         }
     }
 }
